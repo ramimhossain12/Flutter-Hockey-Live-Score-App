@@ -25,9 +25,9 @@ class _SoccerAppState extends State<SoccerApp> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.orangeAccent,
+      backgroundColor: Colors.pinkAccent,
       appBar: AppBar(
-        backgroundColor: Colors.orangeAccent,
+        backgroundColor: Colors.pinkAccent,
         elevation: 0.0,
         centerTitle: true,
         title: Text(
